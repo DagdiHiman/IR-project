@@ -19,9 +19,3 @@ ftq -	free text query
 english_stopwords.txt :is the stopwords File									
 Index_db.json :is the inverted index of the corpus, stores the term and corresponding posting list				      
 index_score_db.json :is the tf-idf database for each word												
-
-
-
-![Index Creation](/demo_images/index.JPG)
-
-![Index Read and Query](/demo_images/query.JPG)
