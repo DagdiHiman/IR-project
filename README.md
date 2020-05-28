@@ -1,4 +1,4 @@
-##A Simple Text File Retrieval System
+ # Lyrics-based Music Retrieval SYSTEM
 
 Documents and query are represented as vectors. The retrieved Text Files are ranked based on Cosine similarity of document vectors and the query vector. The vector representation of any document is an array of Tf-Idf score of the terms present in the respective document.
 
